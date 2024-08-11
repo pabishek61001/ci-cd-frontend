@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Front End
+          Front End ec2
         </a>
       </header>
     </div>
